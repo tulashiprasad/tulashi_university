@@ -235,10 +235,10 @@ body {
   .main-nav {
     height:5vh;
   .welcome {
-    font-size: 3rem;
+    font-size: 4rem;
   }
   .quoit {
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin-top: 10rem;
   }
 }
@@ -248,7 +248,7 @@ body {
     font-size: 2rem;
   }
   .quoit {
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin-top: 6rem;
   }
 }
