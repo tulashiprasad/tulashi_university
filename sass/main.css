@@ -232,6 +232,8 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+  .main-nav {
+    height:5vh;
   .welcome {
     font-size: 3rem;
   }
@@ -246,7 +248,7 @@ body {
     font-size: 2rem;
   }
   .quoit {
-    font-size: 1.2rem;
+    font-size: 2rem;
     margin-top: 6rem;
   }
 }
